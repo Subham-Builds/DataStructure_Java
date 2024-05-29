@@ -36,6 +36,7 @@ public class calculator {
                 System.out.println("Enter again");
         }
         }
+        sc.close();
     
 
 

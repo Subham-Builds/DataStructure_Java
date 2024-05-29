@@ -1,8 +1,11 @@
 public class Constructer {
     public static void main(String[] args) {
         Student s1 = new Student();
-        Student s2 = new Student("Name1");
+        Student s2 = new Student("Subham");
         Student s3 = new Student(122);
+        System.out.println(s2.name);
+        System.out.println(s3.name);
+        System.out.println(s3.roll);
     }
 }
 class Student{
@@ -10,7 +13,7 @@ class Student{
     int roll;
 
     //Constructer intitialized/Called
-    Student()//non parameterised
+    public Student()//non parameterised
     {
         System.out.println("INTITIALIZED");
     }

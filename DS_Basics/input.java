@@ -21,5 +21,6 @@ class input{
         System.out.println(num);
         //calling area function
         System.out.println(area(3));
+        sc.close();
     }
 }

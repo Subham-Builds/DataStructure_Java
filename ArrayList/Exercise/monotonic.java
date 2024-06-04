@@ -26,5 +26,6 @@ public class monotonic {
         h.add(3);
         System.out.println(check(h));
 
+        
     }
 }

@@ -72,7 +72,7 @@ public class LL_addn_size {
         l1.print();
         l1.addindex(1, 3);
         l1.print();
-        System.out.println("The size of Linked List is : "+l1.size);
+        System.out.println("The size of Linked List is : "+ l1.size);
 
     }
 }

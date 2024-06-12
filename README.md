@@ -1,5 +1,5 @@
 
-# Hi, Coders! 👋
+# Heyy, Coders! 👋
 
 
 # Data Structure & Algorithm(JAVA)
@@ -39,7 +39,8 @@ This repository contains a collection of common data structures and algorithms i
 
 ## Screenshot
 
-![Screenshot](https://drive.google.com/file/d/17Wt-Kiy701DknSdAUwNC0yEII5RWQoGQ/view?usp=sharing)
+![Code1](https://github.com/SubhammMoharana/DataStructure_Java/assets/121431904/c3fd72e4-79d7-4667-819c-36b2a3d2edec)
+
 
 
 ## Contributing

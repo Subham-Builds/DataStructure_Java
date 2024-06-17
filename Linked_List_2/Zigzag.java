@@ -40,6 +40,7 @@ public class Zigzag {
             fast = fast.next.next;
         }
         Node mid = slow;
+         
         
         //reverse 2nd half of linked list
         Node curr = mid.next; 

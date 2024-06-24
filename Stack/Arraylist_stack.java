@@ -36,6 +36,5 @@ public class Arraylist_stack {
             System.out.println(s.peek());
             s.pop();
         }
-
     }
 }
